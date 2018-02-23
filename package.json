@@ -19,7 +19,7 @@
         "express-pouchdb": "git://github.com/the-t-in-rtf/express-pouchdb.git#299582cd5bbe33e4057135413c34b72c2c8a7167",
         "gpii-express": "1.0.12",
         "graceful-fs": "4.1.11",
-        "infusion": "3.0.0-dev.20171117T095227Z.67ff934",
+        "infusion": "3.0.0-dev.20180222T160835Z.6e1311a",
         "lie": "3.1.1",
         "memdown": "1.4.1",
         "pouchdb": "6.3.4",
